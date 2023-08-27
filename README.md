@@ -1,11 +1,15 @@
 # Intern-AmanaTax
-Untuk mengakses menu user ketik http://localhost/expo/user/index.php
+Buat dahulu database dengan nama expo dengan mengimport file expo.sql di dalam folder Database
+<br/><br/><br/>
+Untuk mengakses menu user ketik http://localhost/expo/user/index.php <br/>
 Untuk mengakses menu admin ketik http://localhost/expo/admin/index.php
 
-Akun User
-Email : user@user.com
-password : guestuser1234
+<br/><br/><br/>
 
-Akun Admin
-Email : admin@gmail.com
+Akun User<br/>
+Email : user@user.com <br/>
+password : guestuser1234
+<br/><br/><br/>
+Akun Admin<br/>
+Email : admin@gmail.com<br/>
 password : admin1234
