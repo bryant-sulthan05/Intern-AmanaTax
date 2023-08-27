@@ -194,7 +194,7 @@ include 'components/AuthUser.php';
                                     </div>
                                 </div>
                                 <div class="col-md-12 mt-3">
-                                    <label for="status" class="fw-bold">Alamat :</label>
+                                    <label for="status" class="fw-bold">Status :</label>
                                     <select name="status" id="status" class="form-control">
                                         <option value="belum bekerja">Belum Bekerja</option>
                                         <option value="pelajar/mahasiswa">Pelajar/Mahasiswa</option>

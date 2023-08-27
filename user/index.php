@@ -335,8 +335,8 @@ if (isset($_SESSION['empty']) == true) {
             <h4 class="text-center fw-bold text-light">Sekilas Tentang Amanatax</h4>
             <hr class="mb-4 text-light">
             <div class="row d-flex justify-content-center" id="video">
-                <video controls poster="../public/img/thumbnail3.jpeg" id="video" controls controlsList="nodownload" style="width: auto;">
-                    <source src="../public/video/video1.mp4" id="video" />
+                <video controls poster="../public/uploaded_img/OIP.jpeg" id="video" controls controlsList="nodownload" style="width: auto;">
+                    <source src="../public/uploaded_video/Apakah Manusia Bisa Menguasai Galaksi_ _ Skala Kardashev.mp4" id="video" />
                 </video>
             </div>
         </div>
