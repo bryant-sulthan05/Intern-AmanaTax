@@ -65,7 +65,7 @@
           </span>
           <span>
             <p>
-              Jl. Serma Achim Kp. Buaran, Gg. H. Maya Desa No.12, RT.02/RW.02, Lambangsari, Kec. Tambun Sel., Kabupaten Bekasi, Jawa Barat 17510
+              Lorem
             </p>
           </span>
         </div>
